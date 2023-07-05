@@ -42,7 +42,7 @@ const About = () => {
 						<div className="about-main">
 							<div className="about-right-side">
 								<div className="title about-title">
-									{INFO.about.title}
+									{INFO.about.title}	
 								</div>
 
 								<div className="subtitle about-subtitle">
